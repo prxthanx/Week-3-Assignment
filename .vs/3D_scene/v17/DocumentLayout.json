@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\git uploads\\3d_scene\\assets\\scenes\\ambientlightsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\ambientlightsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\git uploads\\3d_scene\\assets\\scenes\\materialwithnormalmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\materialwithnormalmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\assets\\scenes\\materialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\materialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\assets\\scenes\\scenelighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84DB256-9DE7-96D5-46E0-82020C3783FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scenelighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmbientLightSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\AmbientLightSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\AmbientLightSetup.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\AmbientLightSetup.cs",
+              "RelativeToolTip": "Assets\\Scenes\\AmbientLightSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:17:53.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialWithNormalMap.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\MaterialWithNormalMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\MaterialWithNormalMap.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\MaterialWithNormalMap.cs",
+              "RelativeToolTip": "Assets\\Scenes\\MaterialWithNormalMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:16:00.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\MaterialSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\MaterialSetup.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\MaterialSetup.cs",
+              "RelativeToolTip": "Assets\\Scenes\\MaterialSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:13:38.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneLighting.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\SceneLighting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SceneLighting.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Git uploads\\3D_scene\\Assets\\Scenes\\SceneLighting.cs",
+              "RelativeToolTip": "Assets\\Scenes\\SceneLighting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:12:05.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
